@@ -10,6 +10,8 @@ IP设置中国地区
 不支持中间商大量囤货
 单次出货不多于500片
 真实需求，询盘微信：oceanstarsue888
+
+China Special Nvidia A100/H100 supplier : Read me
 Original genuine NVIDIA A100/H100 80G graphics card (PCIE/SMX interface)
 Enjoy 3-year official warranty / Nvidia engineers come to repair
 IP setting China region
